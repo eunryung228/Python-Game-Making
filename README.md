@@ -12,7 +12,8 @@ I was inspired of 'Nonogram' game which is made by Japanese developer. This game
 4. If you want to paint the square, click the left-mouse button.
 
 When all squares to be painted are painted, one round is cleared. After you clear 3 rounds, you can go to the Logic's Castle.(Boss room) Kill a Logic's Castle's dragon, and be a hero!
-- from How to play
+
+ -> from How to play
 
 
 Whenever you finish each round, you can get a item which needs to kill the dragon. If you need a hint, look up to the left. Hint is related to the shape to be made.
